@@ -4,8 +4,9 @@ This is a template repo to create game servers for oo.gg games
 
 ## Getting started
 
+- clone this repo 
 
-- run `npm i` in the root folder of the project to insall the dependencies.
+- run `npm i` in the root folder of the project to install the dependencies.
 
 - in `partykit.json` set `name` field to change the project's name
 
